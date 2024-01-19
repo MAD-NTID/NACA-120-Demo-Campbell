@@ -1,0 +1,14 @@
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\bin\Debug\net8.0\ProjectNameFoo.exe
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\bin\Debug\net8.0\ProjectNameFoo.deps.json
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\bin\Debug\net8.0\ProjectNameFoo.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\bin\Debug\net8.0\ProjectNameFoo.dll
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\bin\Debug\net8.0\ProjectNameFoo.pdb
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.dll
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\refint\ProjectNameFoo.dll
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.pdb
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ProjectNameFoo.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\ProjectNameFoo\obj\Debug\net8.0\ref\ProjectNameFoo.dll
