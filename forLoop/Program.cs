@@ -17,3 +17,10 @@ while(true)
     Console.WriteLine("Hello " + count3);
     count3++;
 }
+
+int count4 = 5;
+do 
+{
+    Console.WriteLine("Hello World");
+
+}while(count4 < 5);
