@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\bin\Debug\net8.0\Switch.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\bin\Debug\net8.0\Switch.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\bin\Debug\net8.0\Switch.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\bin\Debug\net8.0\Switch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\bin\Debug\net8.0\Switch.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\refint\Switch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\Switch.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Switch\obj\Debug\net8.0\ref\Switch.dll

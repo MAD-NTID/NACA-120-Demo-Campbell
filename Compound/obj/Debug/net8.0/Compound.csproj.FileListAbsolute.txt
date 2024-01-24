@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\bin\Debug\net8.0\Compound.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\bin\Debug\net8.0\Compound.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\bin\Debug\net8.0\Compound.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\bin\Debug\net8.0\Compound.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\bin\Debug\net8.0\Compound.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\refint\Compound.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\Compound.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Compound\obj\Debug\net8.0\ref\Compound.dll
