@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\fundamentals\\fundamentals.csproj": {}
+    "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Array\\Array.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\fundamentals\\fundamentals.csproj": {
+    "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Array\\Array.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\fundamentals\\fundamentals.csproj",
-        "projectName": "fundamentals",
-        "projectPath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\fundamentals\\fundamentals.csproj",
+        "projectUniqueName": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Array\\Array.csproj",
+        "projectName": "Array",
+        "projectPath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Array\\Array.csproj",
         "packagesPath": "C:\\Users\\kscics\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\fundamentals\\obj\\",
+        "outputPath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Array\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
