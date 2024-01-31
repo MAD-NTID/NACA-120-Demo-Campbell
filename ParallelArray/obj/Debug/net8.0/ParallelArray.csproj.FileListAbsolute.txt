@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\bin\Debug\net8.0\ParallelArray.exe
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\bin\Debug\net8.0\ParallelArray.deps.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\bin\Debug\net8.0\ParallelArray.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\bin\Debug\net8.0\ParallelArray.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\bin\Debug\net8.0\ParallelArray.pdb
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\refint\ParallelArray.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.pdb
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ParallelArray.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\ParallelArray\obj\Debug\net8.0\ref\ParallelArray.dll
