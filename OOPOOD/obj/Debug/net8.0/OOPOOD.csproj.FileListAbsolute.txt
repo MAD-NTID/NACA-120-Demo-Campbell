@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\bin\Debug\net8.0\OOPOOD.exe
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\bin\Debug\net8.0\OOPOOD.deps.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\bin\Debug\net8.0\OOPOOD.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\bin\Debug\net8.0\OOPOOD.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\bin\Debug\net8.0\OOPOOD.pdb
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\refint\OOPOOD.dll
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.pdb
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\OOPOOD.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-120-Demo-Campbell\OOPOOD\obj\Debug\net8.0\ref\OOPOOD.dll
