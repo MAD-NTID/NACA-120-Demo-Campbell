@@ -8,7 +8,7 @@ public class Person
     {
         get{return name;}
         set{
-            if(string.IsNullOrEmpty(name))
+            if(string.IsNullOrEmpty(value))
                 value = "Unspecified";   
             name = value;
             }
