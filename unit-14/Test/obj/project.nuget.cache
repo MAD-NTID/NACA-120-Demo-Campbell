@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Eb3z6iXXS9klpG3OHVYWxncYtFt5hQJ7lh6nflksc7o6CY4ojdemrrwJUXEeANUsHhIY5gPBP55g0vTlLUH4RQ==",
+  "dgSpecHash": "eGSCQQK7LLkxVgF6ousGrXbnv9MOOmNuSFt9xtMwLcTLQvalEtPbtDn26agqTZpIVJJpd53wvT9vINiE5DNcFA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\unit-14\\Test\\Test.csproj",
+  "projectFilePath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\unit-14\\Test\\Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kscics\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\kscics\\.nuget\\packages\\microsoft.codecoverage\\17.6.0\\microsoft.codecoverage.17.6.0.nupkg.sha512",

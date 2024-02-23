@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\bin\Debug\net8.0\ParentChildClass.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\bin\Debug\net8.0\ParentChildClass.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\bin\Debug\net8.0\ParentChildClass.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\bin\Debug\net8.0\ParentChildClass.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\bin\Debug\net8.0\ParentChildClass.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\refint\ParentChildClass.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ParentChildClass.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\obj\Debug\net8.0\ref\ParentChildClass.dll
