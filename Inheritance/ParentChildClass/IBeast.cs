@@ -4,6 +4,6 @@ public interface IBeast
     public int MaxHp { get; }
     public string Name { get;}
     public string Weakness { get; }
-    public IAttack Attack();
-    public void TakeDamage(IAttack attack);
+    public Attack Attack();
+    public void TakeDamage(Attack attack);
 }

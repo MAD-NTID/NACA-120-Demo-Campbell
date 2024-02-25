@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "R91CMIygNjvCeLv7Nytaig5OOr3IsXkghrEe5o0ADeocmWFKj9ucrvGbNhv4OzngHEFx1/+0IOrHtnQymT/P0Q==",
+  "dgSpecHash": "j/ZLwo+Tk+3BLFQt4r/wmGuhRTwsDN3avmECpTO7TK4PaPEKEvGxBkYCbOsG9Tyjo+/JYNyR29GOGkCYyD+Flw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kscics\\Desktop\\NACA-121\\NACA-120-Demo-Campbell\\Inheritance\\Monsters\\Monsters.csproj",
+  "projectFilePath": "/home/cypher/Desktop/NACA-121/NACA-121-Demo-Campbell/Inheritance/Monsters/Monsters.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

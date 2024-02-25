@@ -23,16 +23,16 @@ public class Godzilla : IBeast
 
     public string Weakness => weakness;
 
-    public IAttack Attack()
+    public Attack Attack()
     {
         //pick a random attack
 
 
         //place holder
-        return new Electricity();
+        return new Attack("Example2", 200);
     }
 
-    public void TakeDamage(IAttack attack)
+    public void TakeDamage(Attack attack)
     {
     
         //

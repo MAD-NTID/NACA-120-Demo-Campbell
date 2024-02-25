@@ -5,24 +5,35 @@ public class Godzilla :Beast
     {
    
     }
-    public override IAttack Attack()
+
+
+    public override Attack Attack()
     {
-        //pick a random attack
+        //for the sake of this demonstration, I will create some attacks and random pick one to use as selecte attack
+        Attack[] attacks = {
+            new Attack("Water",10),
+            new Attack("Spike", 30),
+            new Attack("Grab-and-Fly", 50)
+        };
 
-
-        //place holder
-        return new Electricity();
+        //random select an attack
+        int selected = this.random.Next(attacks.Length);
+        
+        return attacks[selected];
     }
 
-    public override void TakeDamage(IAttack attack)
+    public virtual void TakeDamage(Attack attack)
     {
-    
-        //
-        if(attack.Name == this.weakness)
-        {
-            //he lost 30 points
-        } else{
-            //do something
+        //override the godzilla to handle the 30% damage received from the fire
+        if(attack.Name == "Fire"){
+            //calcualate 30% of the spike's damage based on the godzilla's current health
+            int damage = (int)(CurrentHP * 0.3);
+            //update the attack damage
+            attack.DamagePoints = damage;
         }
+
+        //call the parent to the Take damage since we already have the logic in there... we only handle small
+        //variant in the child such as calculate the % of damage point if Fire attack
+        base.TakeDamage(attack);
     }
 }

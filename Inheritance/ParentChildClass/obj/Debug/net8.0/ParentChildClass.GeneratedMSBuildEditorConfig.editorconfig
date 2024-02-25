@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ParentChildClass
-build_property.ProjectDir = C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Inheritance\ParentChildClass\
+build_property.ProjectDir = /home/cypher/Desktop/NACA-121/NACA-121-Demo-Campbell/Inheritance/ParentChildClass/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

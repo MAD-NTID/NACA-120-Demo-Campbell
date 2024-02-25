@@ -4,6 +4,7 @@ public class Beast:IBeast
     private int currentHp;
     private int maxHp;
     protected string weakness;
+    protected Random random;
 
     public Beast(string name, int currentHp, int maxHp, string weakness)
     {
@@ -11,6 +12,7 @@ public class Beast:IBeast
         this.weakness = weakness;
         this.maxHp = maxHp;
         this.name = name;
+        random = new Random();
     }
 
     public int CurrentHP
@@ -23,25 +25,22 @@ public class Beast:IBeast
 
     public string Weakness => weakness;
 
-    public virtual IAttack Attack()
+    public virtual Attack Attack()
     {
-        //pick a random attack
-
-
-        //place holder
-        return new Electricity();
+        return null;
     }
 
-    public virtual void TakeDamage(IAttack attack)
+    public virtual void TakeDamage(Attack attack)
     {
-    
-        //
+        int damage = attack.DamagePoints;
+
+        //the problem didnt didnt state how to handle a weakness but for the sake of demo
+        //let us say the damange point will double
         if(attack.Name == this.weakness)
-        {
-            //he lost <point> points
-        } else{
-            //do something
-        }
+            damage*=2;
+            
+        this.currentHp-=damage;
+            
     }
 
     public override string ToString()
