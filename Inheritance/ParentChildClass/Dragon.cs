@@ -16,6 +16,13 @@ public class Dragon : Beast
             new Attack("Electricity", 50)
         };
 
+        // Attack[]  attacks = new Attack[10];
+        // attacks[0] = new Attack("Fire", 10);
+        // attacks[1] = new Attack("Smash", 20);
+
+
+
+
         //random select an attack
         int selected = this.random.Next(attacks.Length);
         

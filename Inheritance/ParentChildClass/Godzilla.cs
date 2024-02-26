@@ -22,7 +22,7 @@ public class Godzilla :Beast
         return attacks[selected];
     }
 
-    public virtual void TakeDamage(Attack attack)
+    public void TakeDamage(Attack attack)
     {
         //override the godzilla to handle the 30% damage received from the fire
         if(attack.Name == "Fire"){
@@ -35,5 +35,24 @@ public class Godzilla :Beast
         //call the parent to the Take damage since we already have the logic in there... we only handle small
         //variant in the child such as calculate the % of damage point if Fire attack
         base.TakeDamage(attack);
+    }
+
+    public void Foo()
+    {
+        Console.WriteLine("FOOOOOOOOO");
+    }
+
+    public override bool Equals(object? obj)
+    {
+        if(obj== null)
+            return false;
+        
+        if(!(obj is Godzilla))
+            return false;
+        
+        Godzilla zilla = (Godzilla)obj;
+
+        return zilla.Name == base.Name && zilla.CurrentHP == base.CurrentHP &&
+               zilla.MaxHp == base.MaxHp && zilla.Weakness == base.Weakness;
     }
 }
