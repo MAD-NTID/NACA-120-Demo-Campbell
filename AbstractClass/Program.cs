@@ -1,0 +1,1 @@
+﻿Animal animal  = new Snake(20, "ALex");
