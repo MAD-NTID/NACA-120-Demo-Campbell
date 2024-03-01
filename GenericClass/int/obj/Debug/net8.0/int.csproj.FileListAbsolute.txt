@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\bin\Debug\net8.0\int.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\bin\Debug\net8.0\int.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\bin\Debug\net8.0\int.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\bin\Debug\net8.0\int.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\bin\Debug\net8.0\int.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\refint\int.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\int.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\PrinterGeneric\int\obj\Debug\net8.0\ref\int.dll
