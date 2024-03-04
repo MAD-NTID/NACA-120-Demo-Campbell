@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\bin\Debug\net8.0\2DArray.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\bin\Debug\net8.0\2DArray.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\bin\Debug\net8.0\2DArray.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\bin\Debug\net8.0\2DArray.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\bin\Debug\net8.0\2DArray.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\refint\2DArray.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\2DArray.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\2DArray\obj\Debug\net8.0\ref\2DArray.dll
