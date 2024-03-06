@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\bin\Debug\net8.0\MemoryGame.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\bin\Debug\net8.0\MemoryGame.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\bin\Debug\net8.0\MemoryGame.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\bin\Debug\net8.0\MemoryGame.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\bin\Debug\net8.0\MemoryGame.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\refint\MemoryGame.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\MemoryGame.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MemoryGame\obj\Debug\net8.0\ref\MemoryGame.dll
