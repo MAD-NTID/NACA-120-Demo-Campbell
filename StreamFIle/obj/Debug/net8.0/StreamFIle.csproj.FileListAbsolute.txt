@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\bin\Debug\net8.0\StreamFIle.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\bin\Debug\net8.0\StreamFIle.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\bin\Debug\net8.0\StreamFIle.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\bin\Debug\net8.0\StreamFIle.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\bin\Debug\net8.0\StreamFIle.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\refint\StreamFIle.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\StreamFIle.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\StreamFIle\obj\Debug\net8.0\ref\StreamFIle.dll
