@@ -1,0 +1,28 @@
+/home/cypher/Desktop/NACA-121/StackCustom/bin/Debug/net8.0/StackCustom
+/home/cypher/Desktop/NACA-121/StackCustom/bin/Debug/net8.0/StackCustom.deps.json
+/home/cypher/Desktop/NACA-121/StackCustom/bin/Debug/net8.0/StackCustom.runtimeconfig.json
+/home/cypher/Desktop/NACA-121/StackCustom/bin/Debug/net8.0/StackCustom.dll
+/home/cypher/Desktop/NACA-121/StackCustom/bin/Debug/net8.0/StackCustom.pdb
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.GeneratedMSBuildEditorConfig.editorconfig
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.AssemblyInfoInputs.cache
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.AssemblyInfo.cs
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.csproj.CoreCompileInputs.cache
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.dll
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/refint/StackCustom.dll
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.pdb
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/StackCustom.genruntimeconfig.cache
+/home/cypher/Desktop/NACA-121/StackCustom/obj/Debug/net8.0/ref/StackCustom.dll
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\bin\Debug\net8.0\StackCustom.exe
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\bin\Debug\net8.0\StackCustom.deps.json
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\bin\Debug\net8.0\StackCustom.runtimeconfig.json
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\bin\Debug\net8.0\StackCustom.dll
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\bin\Debug\net8.0\StackCustom.pdb
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.AssemblyInfo.cs
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.dll
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\refint\StackCustom.dll
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.pdb
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\StackCustom.genruntimeconfig.cache
+C:\Users\micha\OneDrive - rit.edu\Information and Computing Studies\Courses\NACA\NACA-121\Unit 23\StackCustom\obj\Debug\net8.0\ref\StackCustom.dll

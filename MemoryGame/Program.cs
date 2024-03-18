@@ -38,3 +38,6 @@ while(!board.IsGameOver)
     }
 
 }
+
+
+StreamWriter writer = new StreamWriter("myfile.txt");
