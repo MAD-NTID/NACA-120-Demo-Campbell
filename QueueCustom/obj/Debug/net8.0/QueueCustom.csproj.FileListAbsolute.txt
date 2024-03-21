@@ -1,0 +1,14 @@
+/home/cypher/Desktop/NACA-121/QueueCustom/bin/Debug/net8.0/QueueCustom
+/home/cypher/Desktop/NACA-121/QueueCustom/bin/Debug/net8.0/QueueCustom.deps.json
+/home/cypher/Desktop/NACA-121/QueueCustom/bin/Debug/net8.0/QueueCustom.runtimeconfig.json
+/home/cypher/Desktop/NACA-121/QueueCustom/bin/Debug/net8.0/QueueCustom.dll
+/home/cypher/Desktop/NACA-121/QueueCustom/bin/Debug/net8.0/QueueCustom.pdb
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.GeneratedMSBuildEditorConfig.editorconfig
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.AssemblyInfoInputs.cache
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.AssemblyInfo.cs
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.csproj.CoreCompileInputs.cache
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.dll
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/refint/QueueCustom.dll
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.pdb
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/QueueCustom.genruntimeconfig.cache
+/home/cypher/Desktop/NACA-121/QueueCustom/obj/Debug/net8.0/ref/QueueCustom.dll
