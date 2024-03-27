@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\bin\Debug\net8.0\Exam2Review.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\bin\Debug\net8.0\Exam2Review.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\bin\Debug\net8.0\Exam2Review.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\bin\Debug\net8.0\Exam2Review.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\bin\Debug\net8.0\Exam2Review.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\refint\Exam2Review.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\Exam2Review.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\Exam2Review\obj\Debug\net8.0\ref\Exam2Review.dll
