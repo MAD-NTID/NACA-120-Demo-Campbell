@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\bin\Debug\net8.0\InsertionSortALgorithm.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\bin\Debug\net8.0\InsertionSortALgorithm.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\bin\Debug\net8.0\InsertionSortALgorithm.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\bin\Debug\net8.0\InsertionSortALgorithm.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\bin\Debug\net8.0\InsertionSortALgorithm.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\refint\InsertionSortALgorithm.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\InsertionSortALgorithm.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\InsertionSortALgorithm\obj\Debug\net8.0\ref\InsertionSortALgorithm.dll
