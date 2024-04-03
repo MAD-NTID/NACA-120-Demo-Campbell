@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\bin\Debug\net8.0\MergeSorting.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\bin\Debug\net8.0\MergeSorting.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\bin\Debug\net8.0\MergeSorting.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\bin\Debug\net8.0\MergeSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\bin\Debug\net8.0\MergeSorting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\refint\MergeSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\MergeSorting.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\MergeSorting\obj\Debug\net8.0\ref\MergeSorting.dll
