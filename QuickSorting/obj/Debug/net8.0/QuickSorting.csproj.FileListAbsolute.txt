@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\bin\Debug\net8.0\QuickSorting.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\bin\Debug\net8.0\QuickSorting.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\bin\Debug\net8.0\QuickSorting.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\bin\Debug\net8.0\QuickSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\bin\Debug\net8.0\QuickSorting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\refint\QuickSorting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\QuickSorting.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\QuickSorting\obj\Debug\net8.0\ref\QuickSorting.dll
