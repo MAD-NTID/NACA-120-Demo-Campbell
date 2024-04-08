@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\bin\Debug\net8.0\DictionaryFromScratch.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\bin\Debug\net8.0\DictionaryFromScratch.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\bin\Debug\net8.0\DictionaryFromScratch.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\bin\Debug\net8.0\DictionaryFromScratch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\bin\Debug\net8.0\DictionaryFromScratch.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\refint\DictionaryFromScratch.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\DictionaryFromScratch.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\DictionaryFromScratch\obj\Debug\net8.0\ref\DictionaryFromScratch.dll
