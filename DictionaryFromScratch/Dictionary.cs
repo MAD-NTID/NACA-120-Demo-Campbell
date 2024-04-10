@@ -148,7 +148,7 @@ public class Dictionary<TKey, TValue> : IDictionary<TKey, TValue>
                 return index;
             }
 
-            index = index + 1  % capacity;
+            index = (index + 1)  % capacity;
 
         }while(startIndex!=index);
 

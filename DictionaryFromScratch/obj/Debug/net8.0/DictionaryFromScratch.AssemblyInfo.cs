@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DictionaryFromScratch")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+460c2c6fc9c766cd27050b03ed8e2678bd95e8d1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ceb6bfdcd640b470e3d8ec16ef30b5c1f4b607ac")]
 [assembly: System.Reflection.AssemblyProductAttribute("DictionaryFromScratch")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DictionaryFromScratch")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
