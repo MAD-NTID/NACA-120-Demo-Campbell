@@ -1,0 +1,12 @@
+[
+	{
+		"URL": "https://youtube.com/video/1234",
+		"DateWatched": "2024-04-15T00:00:00",
+		"Category": "Dog"
+	},
+	{
+		"URL": "https://youtube.com/video/1337",
+		"DateWatched": "2024-04-14T00:00:00",
+		"Category": "Leetcode!!"
+	}
+]
