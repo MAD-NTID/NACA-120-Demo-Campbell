@@ -1,0 +1,12 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\bin\Release\net8.0\NACATestGreeting.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\bin\Release\net8.0\NACATestGreeting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\bin\Release\net8.0\NACATestGreeting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\refint\NACATestGreeting.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\NACATestGreeting.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\obj\Release\net8.0\ref\NACATestGreeting.dll

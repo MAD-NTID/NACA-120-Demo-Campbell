@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NACA121.001.Greeter</id>
+    <version>1.0.0</version>
+    <authors>NACA121Crews</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="f9c16a529bdfe04f6a07d9522b33109b67c3b2fc" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\NACATestGreeting\bin\Release\net8.0\NACATestGreeting.dll" target="lib\net8.0\NACATestGreeting.dll" />
+  </files>
+</package>
