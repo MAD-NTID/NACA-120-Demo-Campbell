@@ -1,0 +1,15 @@
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\bin\Debug\net8.0\LambdaMagic.exe
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\bin\Debug\net8.0\LambdaMagic.deps.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\bin\Debug\net8.0\LambdaMagic.runtimeconfig.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\bin\Debug\net8.0\LambdaMagic.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\bin\Debug\net8.0\LambdaMagic.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.AssemblyInfoInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.AssemblyInfo.cs
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.csproj.CoreCompileInputs.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.sourcelink.json
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\refint\LambdaMagic.dll
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.pdb
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\LambdaMagic.genruntimeconfig.cache
+C:\Users\kscics\Desktop\NACA-121\NACA-120-Demo-Campbell\LambdaMagic\obj\Debug\net8.0\ref\LambdaMagic.dll
